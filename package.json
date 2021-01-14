@@ -1,0 +1,16 @@
+{
+  "name": "intera-case",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {
+    "apollo-server-lambda": "^2.19.1",
+    "aws-sdk": "^2.827.0",
+    "graphql": "^15.4.0"
+  },
+  "devDependencies": {
+    "serverless": "^2.18.0",
+    "serverless-domain-manager": "^5.1.0",
+    "serverless-dynamodb-local": "^0.2.39",
+    "serverless-offline": "^6.8.0"
+  }
+}
